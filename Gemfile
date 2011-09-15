@@ -18,6 +18,9 @@ end
 
 gem 'jquery-rails'
 
+gem 'mustache'
+gem 'mustache_rails3'
+
 # Use unicorn as the web server
 # gem 'unicorn'
 
